@@ -1,5 +1,5 @@
 GS – Edge Computing & Computer Systems
-📡 Sistema de Monitoramento Inteligente de Ambiente – Grupo BrainTech
+📡 Sistema de Monitoramento Inteligente de Ambiente – Grupo IZI-Ia
 
 Este projeto integra um ESP32 ao ecossistema FIWARE utilizando o protocolo MQTT para criar um sistema de monitoramento ambiental em tempo real.
 O dispositivo coleta dados do ambiente (luminosidade, temperatura, umidade e presença) e também permite o controle remoto do LED onboard, funcionando como um nó IoT completo dentro da arquitetura de computação de borda.
