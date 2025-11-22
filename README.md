@@ -6,11 +6,8 @@ O dispositivo coleta dados do ambiente (luminosidade, temperatura, umidade e pre
 
 👨‍💻 Integrantes do Grupo
 
-Rafael Moraes Ribeiro dos Santos – RM 565075
-
-Guilherme Andrade Amaral – RM 562112
-
-Matheus Antunes – RM 561292
+Enrico Bagli RM:562541
+Joao Cazzarini RM:
 
 ⚙️ Recursos Implementados
 📶 Conectividade
